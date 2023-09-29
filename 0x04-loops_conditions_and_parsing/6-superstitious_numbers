@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+# Displays numbers from 1 to 20 and and other features
+seq=1
+while [ $seq -le 20 ]
+do
+	echo $seq
+	case $seq in
+		4)
+			echo "bad luck from China"
+			;;
+		9)
+			echo "bad luck from Japan"
+			;;
+		17)
+			echo "bad luck from Italy"
+			;;
+		esac
+		((seq++))
+done
