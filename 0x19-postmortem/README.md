@@ -32,4 +32,3 @@
     - Collaborate with the security team to fine-tune bot detection mechanisms.
     - Update incident response protocols to streamline communication and escalation processes during outages.
 
-This postmortem outlines the key details of the web stack outage, providing a clear understanding of the duration, impact, root cause, and the steps taken to resolve the issue. The corrective and preventative measures highlight specific tasks to address the identified issues and prevent similar incidents in the future.
